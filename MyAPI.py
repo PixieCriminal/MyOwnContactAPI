@@ -22,6 +22,12 @@ contacts = [
         'Name': 'Venky Maghullo'
         'About': 'Venky Maghullo is a ski instructor at Jessie's Extreme Sport Park and he used to be a tourist guide for the Grand Canyon',
         'done': False
+    },
+    {
+        'id' = 4,
+        'Contact': '6666666666'
+        'Name': 'Cardi Mucklide'
+        'About': 'Cardi Mucklide is a worldwide speaker and background score artist - she has recently released an album called The Veins Of Earth. She was born on September 3rd'
 ]
 
 @app.route("/add-data", methods = ['POST'])
